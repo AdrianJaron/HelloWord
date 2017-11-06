@@ -1,0 +1,2 @@
+# HelloWord
+Short trening
